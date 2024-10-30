@@ -3,9 +3,6 @@
 ## Description
 A plugin for Zombie Plague Special that prevents zombies from buying infection bombs when there is a last human survivor.
 
-## Features
-- Automatically blocks infection bomb purchases when a last human is present
-
 ## Requirements
 - AMX Mod X
 - Zombie Plague Special
